@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i&subset=cyrillic');
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: 'Open Sans', sans-serif;
+  margin: 0 auto;
+  background-color: #E3DED2;
+}
+img {
+  width: 400px;
+  height: 300px;
+}
+.box1 {
+  position: absolute;
+  margin-top: 20%;
+  margin-left: 5%;
+}
+.box2 {
+  position: absolute;
+  margin-top: 20%;
+  margin-left: 25%;
+}
+.box3 {
+  position: absolute;
+  margin-top: 20%;
+  margin-left:55%;
+}
+.box4 {
+  position: absolute;
+  margin-top: 60%;
+  margin-left: 10%;
+}
+.box5 {
+  position: absolute;
+  margin-top: 50%;
+  margin-left: 45%;
+}
+.box6 {
+  position: absolute;
+  margin-top: 45%;
+  margin-left: 80%;
+}
+.box7 {
+  position: absolute;
+  margin-top: 80%;
+  margin-left: 10%;
+}
+.box8 {
+  position: absolute;
+  margin-top: 70%;
+  margin-left: 70%;
+}
